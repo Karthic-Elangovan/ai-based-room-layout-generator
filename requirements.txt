@@ -1,0 +1,14 @@
+streamlit
+numpy
+matplotlib
+tensorflow
+keras
+json
+os
+random
+matplotlib-colorbar
+matplotlib-patches
+PIL
+base64
+plotly
+ipywidgets

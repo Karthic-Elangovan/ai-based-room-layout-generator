@@ -1,0 +1,53 @@
+{
+  "plot_dimensions": {
+    "width": 15,
+    "depth": 15
+  },
+  "rooms": [
+    {
+      "type": "Living Room",
+      "dimensions": {
+        "x": 7.0,
+        "y": 5.0,
+        "width": 8.0,
+        "height": 5.0
+      }
+    },
+    {
+      "type": "Kitchen",
+      "dimensions": {
+        "x": 7.0,
+        "y": 10.0,
+        "width": 8.0,
+        "height": 5.0
+      }
+    },
+    {
+      "type": "Bathroom",
+      "dimensions": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 7.0,
+        "height": 5.0
+      }
+    },
+    {
+      "type": "Bedroom",
+      "dimensions": {
+        "x": 7.0,
+        "y": 0.0,
+        "width": 8.0,
+        "height": 5.0
+      }
+    },
+    {
+      "type": "Other",
+      "dimensions": {
+        "x": 0.0,
+        "y": 5.0,
+        "width": 7.0,
+        "height": 10.0
+      }
+    }
+  ]
+}

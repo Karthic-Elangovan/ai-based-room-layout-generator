@@ -13,16 +13,13 @@ The AI Room Layout Generator is a powerful Streamlit application that creates in
 - Room details and area calculations
 
 ## Requirements
-- Python 3.7+
-- Streamlit
-- NumPy
-- Matplotlib
-- TensorFlow
-- Plotly
-- PIL
-- io
-- json
-- random
+- streamlit>=1.10.0
+- numpy>=1.21.2
+- matplotlib>=3.5.2
+- tensorflow-cpu>=2.8.0  
+- plotly>=4.14.3
+- ipywidgets>=7.6.5
+- Pillow>=9.1.1
 
 ## Installation
 
